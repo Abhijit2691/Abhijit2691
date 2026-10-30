@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Abhijit 👋
 
-<!--
-**Abhijit2691/Abhijit2691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React Developer | Frontend Development | Dashboard UI
 
-Here are some ideas to get you started:
+I'm a software developer interested in building practical, responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy developing React components, dashboards and frontend interfaces while continuously improving my programming skills.
+
+## 🚀 Featured Project
+
+### Kaizen Diary
+
+A personal productivity application built using React and Node.js.
+
+Areas of development include:
+- Budget and expense tracking
+- Habit tracking
+- Daily journaling
+- Personal goals and reflections
+- Productivity dashboard
+
+*Project is under active development.*
+
+## 💻 Technical Skills
+
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** SQL Server
+- **Tools:** Git, GitHub, VS Code, Vite
+
+## 🎯 Currently Learning
+
+- Advanced React
+- Python
+- Selenium Automation
+- Playwright
+- Full-stack application development
+
+## 🤝 Open to Freelance Opportunities
+
+Interested in:
+- React frontend development
+- Dashboard development
+- Responsive UI improvements
+- React component development
+- Small website bug fixes
+
+## 📫 Connect with me
+
+- GitHub: https://github.com/Abhijit2691
