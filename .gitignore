@@ -1,0 +1,38 @@
+﻿# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+client/dist/
+**/dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Database files - keep personal data private
+*.db
+*.sqlite
+*.sqlite3
+
+# Android signing credentials
+*.keystore
+*.jks
+key.properties
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local configuration
+*.local
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OS files
+Desktop.ini
