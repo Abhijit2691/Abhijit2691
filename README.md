@@ -1,50 +1,32 @@
-# Hi, I'm Abhijit 👋
+Hi! I'm a Software Developer focused on building clean, responsive and user-friendly web applications using React.
 
-### React Developer | Frontend Development | Dashboard UI
+I enjoy turning ideas into practical software solutions, whether that's developing a dashboard, improving an existing interface, integrating APIs or fixing frontend issues.
 
-I'm a software developer interested in building practical, responsive and user-friendly web applications.
+**My technical skills include:**
 
-I enjoy developing React components, dashboards and frontend interfaces while continuously improving my programming skills.
+- **Frontend:** React.js, JavaScript, HTML5, CSS3, Vite
+- **Backend:** Node.js, Express.js, REST API integration
+- **Database:** SQLite, SQL Server
+- **Automation:** Python, Selenium, Pandas
+- **Tools:** Git, GitHub, VS Code
 
-## 🚀 Featured Project
+**What I can help you with:**
 
-### Kaizen Diary
+- Build responsive React pages and components.
+- Develop dashboards and web application interfaces.
+- Fix React bugs and improve existing UI.
+- Connect React applications with REST APIs.
+- Develop basic Node.js and Express API functionality.
+- Write Python scripts for repetitive tasks and automation.
 
-A personal productivity application built using React and Node.js.
+**My featured project: Kaizen Diary**
 
-Areas of development include:
-- Budget and expense tracking
-- Habit tracking
-- Daily journaling
-- Personal goals and reflections
-- Productivity dashboard
+I developed Kaizen Diary, a productivity and personal tracking application using React, Vite, Node.js, Express and SQLite. It includes multiple tracking modules, API integration and an Android application structure using Capacitor.
 
-*Project is under active development.*
+GitHub: https://github.com/Abhijit2691/Abhijit2691
 
-## 💻 Technical Skills
+I believe in clear communication, organised code, understanding project requirements and delivering work within agreed timelines.
 
-- **Frontend:** React.js, JavaScript, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** SQL Server
-- **Tools:** Git, GitHub, VS Code, Vite
+If you need help with a React frontend, dashboard, API integration or a small automation task, I'd be happy to discuss your project.
 
-## 🎯 Currently Learning
-
-- Advanced React
-- Python
-- Selenium Automation
-- Playwright
-- Full-stack application development
-
-## 🤝 Open to Freelance Opportunities
-
-Interested in:
-- React frontend development
-- Dashboard development
-- Responsive UI improvements
-- React component development
-- Small website bug fixes
-
-## 📫 Connect with me
-
-- GitHub: https://github.com/Abhijit2691
+Let's build something useful together!
